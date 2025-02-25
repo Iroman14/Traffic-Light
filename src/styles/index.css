@@ -9,3 +9,78 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.Container {
+    margin: auto;
+    background-color: blanchedalmond;
+    height: 2000px;
+}
+
+.Cable {
+    background-color: black;
+    height: 100px;
+    width: 10px;
+    margin: auto;
+}
+
+.Traffic-Light {
+    background-color: black;
+    height: 380px;
+    width: 150px;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.Traffic-Light-Plus {
+    background-color: black;
+    height: 500px;
+    width: 150px;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.Light-Red {
+    background-color: red;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+}
+
+.Light-Yellow { 
+    background-color: yellow;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+}
+
+.Light-Green {
+    background-color: green;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+}
+
+.Light-Purple {
+    background-color: purple;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+}
+
+.Shine {
+    box-shadow: 0px 0px 9px 5px #d3dd78;
+}
+
+.btn {
+    font-size: 25px;
+    height: 90px;
+    width: 250px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
